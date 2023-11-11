@@ -4,7 +4,7 @@ product management system
 
 ## description
 
-Program Features
+Program Features:
 
 Add Product
 
