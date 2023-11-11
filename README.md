@@ -1,6 +1,6 @@
 #  product management system
 
-## description
+## Description
 
 Program Features:
 
