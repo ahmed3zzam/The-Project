@@ -1,6 +1,6 @@
 # library Management System
 
-## 1 Functional Requirement
+## 1.Functional Requirement
 
 1.1 Manage Shelves [MS]  
 
@@ -60,7 +60,7 @@
 
 3-MM The system must allow the admin to "remove" the selected member.
 
-## 2 Non-Functional Requirements
+## 2.Non-Functional Requirements
 
 2.1 Performance Requirements [PR]
 
