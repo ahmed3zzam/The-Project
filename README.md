@@ -1,8 +1,8 @@
 # library Management System
 
-## 1.1 Functional Requirement
+## 1 Functional Requirement
 
-1.1.1 Manage Shelves [MS]  
+1.1 Manage Shelves [MS]  
 
 1-MS The system must allow the admin to "add" the shelf description.
 
@@ -60,9 +60,9 @@
 
 3-MM The system must allow the admin to "remove" the selected member.
 
-## 1.2 Non-Functional Requirements
+## 2 Non-Functional Requirements
 
-1.2.1 Performance Requirements [PR]
+2.1 Performance Requirements [PR]
 
 1-PR The system must respond the business operation in less than 3 seconds for user (admin).
 
@@ -72,7 +72,7 @@
 
 4-PR The system should be reliable.
 
-1.2.2 Safety and Security Requirements [SSR]
+2.2 Safety and Security Requirements [SSR]
 
 1-SSR The system must handle safe login and logout through session. 
 
@@ -82,16 +82,16 @@
 
 4-SSR The system could use SSL (Secure Socket Layer) certificates to secure the data being transmitted. 
 
-1.2.3 Reliability [R]
+2.3 Reliability [R]
  
 R-1 System should be designed in a modular manner to ease in software maintenance. By designing modularly, we are able to reduce coupling allowing each module to perform a specific function.
 
-1.2.4 Other Software Quality Attributes 
+2.4 Other Software Quality Attributes 
 
-1.2.4.1 Usability [U]
+2.4.1 Usability [U]
 
 U-1 The system should have user-friendly interface. 
 
-3.2.4.2 Availability[A]
+2.4.2 Availability[A]
 
 A-1 The system must be available 24/7, with no more than 20 minutes down time per day.
