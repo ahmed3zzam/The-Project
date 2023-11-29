@@ -10,7 +10,7 @@
 
 3-MS The system must allow the admin to "remove" the selected shelf.
  
-1.1.2 Manage Categories [MC] 
+1.2 Manage Categories [MC] 
 
 1-MC The system must allow the admin to "add" the category data.
 
@@ -18,7 +18,7 @@
 
 3-MC The system must allow the admin to "remove" the selected category.
 
-1.1.3 Manage Publishers [MP]
+1.3 Manage Publishers [MP]
 
 1-MP The system must allow the admin to "add" the publisher data.
 
@@ -26,7 +26,7 @@
 
 3-MP The system must allow the admin to "remove" the selected publisher.
 
-3.1.4 Manage Authors [MA]
+1.4 Manage Authors [MA]
 
 1-MA The system must allow the admin to "add" the author data.
 
@@ -34,7 +34,7 @@
 
 3-MA The system must allow the admin to "remove" the selected author.
 
-3.1.5 Manage Books [MB]
+1.5 Manage Books [MB]
 
 1-MB The system must allow the admin to "add" the book data.
 
@@ -44,7 +44,7 @@
 
 4-MB The system must allow the admin to "remove" the selected book.
 
-3.1.6 Generate Books Requests and Returns [GBRR]
+1.6 Generate Books Requests and Returns [GBRR]
  
 1-GBRR The system must allow the admin to select member for the book request and generate the orders according to this member date
 
@@ -52,7 +52,7 @@
 
 3-GBRR The system must allow the admin to "update" the books requests.
 
-3.1.7 Manage Members [MM]
+1.7 Manage Members [MM]
 
 1-MM The system must allow the admin to "add" the member data.
 
