@@ -4,83 +4,83 @@
 
 1.1 Manage Shelves [MS]  
 
-1-MS The system must allow the admin to "add" the shelf description.
+MS-1 The system must allow the admin to "add" the shelf description.
 
-2-MS The system must allow the admin to "update" the selected shelf description.
+MS-2 The system must allow the admin to "update" the selected shelf description.
 
-3-MS The system must allow the admin to "remove" the selected shelf.
+MS-3 The system must allow the admin to "remove" the selected shelf.
  
 1.2 Manage Categories [MC] 
 
-1-MC The system must allow the admin to "add" the category data.
+MC-1 The system must allow the admin to "add" the category data.
 
-2-MC The system must allow the admin to "update" the selected category data.
+MC-2 The system must allow the admin to "update" the selected category data.
 
-3-MC The system must allow the admin to "remove" the selected category.
+MC-3 The system must allow the admin to "remove" the selected category.
 
 1.3 Manage Publishers [MP]
 
-1-MP The system must allow the admin to "add" the publisher data.
+MP-1 The system must allow the admin to "add" the publisher data.
 
-2-MP The system must allow the admin to "update" the selected publisher data.
+MP-2 The system must allow the admin to "update" the selected publisher data.
 
-3-MP The system must allow the admin to "remove" the selected publisher.
+MP-3 The system must allow the admin to "remove" the selected publisher.
 
 1.4 Manage Authors [MA]
 
-1-MA The system must allow the admin to "add" the author data.
+MA-1 The system must allow the admin to "add" the author data.
 
-2-MA The system must allow the admin to "update" the selected author data.
+MA-1 The system must allow the admin to "update" the selected author data.
 
-3-MA The system must allow the admin to "remove" the selected author.
+MA-2 The system must allow the admin to "remove" the selected author.
 
 1.5 Manage Books [MB]
 
-1-MB The system must allow the admin to "add" the book data.
+MB-1 The system must allow the admin to "add" the book data.
 
-2-MB The system must allow the admin to "add" new book quantity
+MB-2 The system must allow the admin to "add" new book quantity
 
-3-MB The system must allow the admin to "update" the selected book data.
+MB-3 The system must allow the admin to "update" the selected book data.
 
-4-MB The system must allow the admin to "remove" the selected book.
+MB-4 The system must allow the admin to "remove" the selected book.
 
 1.6 Generate Books Requests and Returns [GBRR]
  
-1-GBRR The system must allow the admin to select member for the book request and generate the orders according to this member date
+GBRR-1 The system must allow the admin to select member for the book request and generate the orders according to this member date
 
-2-GBRR The system must allow the admin to generate books returns according to member data.
+GBRR-2 The system must allow the admin to generate books returns according to member data
 
-3-GBRR The system must allow the admin to "update" the books requests.
+GBRR-3 The system must allow the admin to "update" the books requests.
 
 1.7 Manage Members [MM]
 
-1-MM The system must allow the admin to "add" the member data.
+MM-1 The system must allow the admin to "add" the member data.
 
-2-MM The system must allow the admin to "update" the selected member data.
+MM-2 The system must allow the admin to "update" the selected member data.
 
-3-MM The system must allow the admin to "remove" the selected member.
+MM-3 The system must allow the admin to "remove" the selected member.
 
 ## 2.Non-Functional Requirement
 
 2.1 Performance Requirements [PR]
 
-1-PR The system must respond the business operation in less than 3 seconds for user (admin).
+PR-1 The system must respond the business operation in less than 3 seconds for user (admin).
 
-2-PR The system should be compatible with all modern browsers.
+PR-2 The system should be compatible with all modern browsers.
 
-3-PR The system should response the operation messages to the users within 2 seconds.
+PR-3 The system should response the operation messages to the users within 2 seconds.
 
-4-PR The system should be reliable.
+PR-4 The system should be reliable.
 
 2.2 Safety and Security Requirements [SSR]
 
-1-SSR The system must handle safe login and logout through session. 
+SSR-1 The system must handle safe login and logout through session. 
 
-2-SSR Hashing technology should be used to handle the secure login for users.
+SSR-2 Hashing technology should be used to handle the secure login for users.
 
-3-SSR The database should be secured from SQL injection to prevent leak or loss of information.
+SSR-3 The database should be secured from SQL injection to prevent leak or loss of information.
 
-4-SSR The system could use SSL (Secure Socket Layer) certificates to secure the data being transmitted. 
+SSR-4 The system could use SSL (Secure Socket Layer) certificates to secure the data being transmitted. 
 
 2.3 Reliability [R]
  
