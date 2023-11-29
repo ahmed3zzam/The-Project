@@ -60,7 +60,7 @@
 
 3-MM The system must allow the admin to "remove" the selected member.
 
-## 2.Non-Functional Requirements
+## 2.Non-Functional Requirement
 
 2.1 Performance Requirements [PR]
 
